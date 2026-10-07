@@ -22,5 +22,7 @@
 
 ---
 
-### 📊 Mes compétences humaines
-[Lien vers la page : ](https://sublimated.com/lilibonome/Public/Soft_skills.md)
+### 📊 Mon espace public sur Sublimated
+[Lien vers la page](https://sublimated.com/lilibonome/Public)
+
+![Image au hasard](https://picsum.photos/1000/250)
