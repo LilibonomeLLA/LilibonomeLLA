@@ -23,4 +23,4 @@
 ---
 
 ### 📊 Mes compétences humaines
-A finaliser plus tard...
+[Lien vers la page : ](https://sublimated.com/lilibonome/Public/Soft_skills.md)
