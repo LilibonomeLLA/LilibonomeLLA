@@ -9,7 +9,7 @@
 - 🔭 Je travaille actuellement sur différents projets : **Top secret**
 - 🌱 J'apprends en ce moment : **Ocaml** , **IA** 
 - 💬 Demandez-moi de l'aide sur : **Méthologie, gestion de projets...**
-- 📫 Comment me joindre :  <a href="https://www.linkedin.com/in/lajoie-ludovic-lla/"><img src="https://shields.io" alt="LinkedIn"></a>
+- 📫 Comment me joindre :  <a href="https://www.linkedin.com/in/lajoie-ludovic-lla/">LinkedIn</a>
 
 ---
 
