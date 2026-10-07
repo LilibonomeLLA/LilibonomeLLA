@@ -1,4 +1,5 @@
 
+![Image au hasard](https://picsum.photos/1000/150)
 <h1 align="center">Salut 👋, je m'appelle Lilibonome, enfin... c'est mon pseudo 😉 </h1>
 <h3 align="center">[Je suis un DSI / qui aime bien tester plein de trucs 🔥]</h3>
 
@@ -25,4 +26,3 @@
 ### 📊 Mon espace public sur Sublimated
 [Lien vers la page](https://sublimated.com/lilibonome/Public)
 
-![Image au hasard](https://picsum.photos/1000/250)
