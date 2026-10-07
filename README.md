@@ -25,5 +25,5 @@
 
 ### 📊 Mon espace public sur Sublimated
 <p align="center">
-Lien vers la page => <a href="https://sublimated.com/lilibonome">lien</a>
+Lien vers la page => <a href="https://sublimated.com/lilibonome/Public">lien</a>
 </p>
