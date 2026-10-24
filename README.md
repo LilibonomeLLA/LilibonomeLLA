@@ -13,9 +13,7 @@
 ---
 ### 🛠️ Mes compétences techniques
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,notion,vim,gmail,ai,linkedin,obsidian,latex,Ocaml" />
-  </a>
 </p>
 
 ---
