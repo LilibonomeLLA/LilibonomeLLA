@@ -4,7 +4,6 @@
 <h3 align="center">[Je suis un DSI / qui aime bien tester plein de trucs 🔥]</h3>
 
 ---
-
 ### 🚀 À propos de moi
 - 🔭 Je travaille actuellement sur différents projets : **Top secret**
 - 🌱 J'apprends en ce moment : **Ocaml** , **IA** 
@@ -12,9 +11,7 @@
 - 📫 Comment me joindre :  <a href="https://www.linkedin.com/in/lajoie-ludovic-lla/">LinkedIn</a>
 
 ---
-
 ### 🛠️ Mes compétences techniques
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,notion,vim,gmail,ai,linkedin,obsidian,latex,Ocaml" />
@@ -22,8 +19,12 @@
 </p>
 
 ---
-
 ### 📊 Mon espace public sur Sublimated
 <p align="center">
 Lien vers la page => <a href="https://sublimated.com/lilibonome/Public">lien</a>
+</p>
+---
+### 🕸️ Mon Site public
+<p align="center">
+Lien vers la page => <a href="https://lilibonomella.github.io/WebSite/index.html">lien</a>
 </p>
